@@ -1,0 +1,22 @@
+{
+    "name": "code-dadi-dark",
+    "displayName": "Code-Dadi Dark",
+    "description": "Code-Dadi Dark Themes!!!",
+    "version": "0.0.1",
+    "publisher": "CodeDadi",
+    "engines": {
+        "vscode": "^1.63.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "Code-Dadi Dark",
+                "uiTheme": "vs-dark",
+                "path": "./themes/Code-Dadi Dark-color-theme.json"
+            }
+        ]
+    }
+}
