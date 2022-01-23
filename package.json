@@ -4,6 +4,18 @@
     "description": "Code-Dadi Dark Themes!!!",
     "version": "0.0.1",
     "publisher": "CodeDadi",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/4rexdadi/code-dadi-dark.git"
+    },
+    "keywords": [
+        "vs code dark theme",
+        "theme",
+        "Code Dadi",
+        "Code Dadi Dark Theme",
+        "dark theme",
+        "codedadi"
+    ],
     "engines": {
         "vscode": "^1.63.0"
     },
