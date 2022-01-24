@@ -1,4 +1,4 @@
-[![Code Dadi Theme Demo](img\themes.gif)](https://marketplace.visualstudio.com/items?itemName=CodeDadi.code-dadi-dark)
+[![Code Dadi Theme Demo](https://github.com/4rexdadi/code-dadi-dark/blob/main/img/themes.gif?raw=true)](https://marketplace.visualstudio.com/items?itemName=CodeDadi.code-dadi-dark)
 
 # Code Dadi Theme for VS Code
 
@@ -19,8 +19,8 @@ Thanks for checking out my VS Code theme. There are 2 options to choose from:
 ## More Screenshots
 
 - Dark
-  ![Code Dadi Theme Demo](img\ss3.jpeg)
-  ![Code Dadi Theme Demo](img\ss4.jpeg)
+  ![Code Dadi Theme Demo](https://github.com/4rexdadi/code-dadi-dark/blob/main/img/ss3.jpeg?raw=true)
+  ![Code Dadi Theme Demo](https://github.com/4rexdadi/code-dadi-dark/blob/main/img/ss4.jpeg?raw=true)
 - Light Dark
-  ![Code Dadi Theme Demo](img\ss1.jpeg)
-  ![Code Dadi Theme Demo](img\ss2.jpeg)
+  ![Code Dadi Theme Demo](https://github.com/4rexdadi/code-dadi-dark/blob/main/img/ss1.jpeg?raw=true)
+  ![Code Dadi Theme Demo](https://github.com/4rexdadi/code-dadi-dark/blob/main/img/ss2.jpeg?raw=true)
