@@ -4,10 +4,18 @@
     "description": "Code-Dadi Dark Themes!!!",
     "version": "0.0.1",
     "publisher": "CodeDadi",
+    "author": {
+        "name": "Adedayo Aturu"
+    },
     "repository": {
         "type": "git",
         "url": "https://github.com/4rexdadi/code-dadi-dark.git"
     },
+    "galleryBanner": {
+        "color": "#09131b",
+        "theme": "dark"
+    },
+    "icon": "img/logo.JPG",
     "keywords": [
         "vs code dark theme",
         "theme",
@@ -27,7 +35,12 @@
             {
                 "label": "Code-Dadi Dark",
                 "uiTheme": "vs-dark",
-                "path": "./themes/Code-Dadi Dark-color-theme.json"
+                "path": "./themes/Code-Dadi-Dark-color-theme.json"
+            },
+            {
+                "label": "Code-Dadi Dark",
+                "uiTheme": "vs-dark",
+                "path": "./themes/Code-Dadi-Lighter-color-theme.json"
             }
         ]
     }
